@@ -1,7 +1,6 @@
-# Trabalho2_RedesComputadores
-Relatório - Trabalho 2 - Redes de Computadores
+# Roteador, Cliente
 
-O trabalho possui ao todo 8 classes. Será explicada brevemente as funções de cada uma. Cada explicação está incluída em sua respectiva classe do trabalho.
+Serão explicadas brevemente as funções de cada classe.
 
 Roteador → Recebe uma entrada no formato “ numero_porta rede-destino/máscara/gateway/interface “ que definirá seu funcionamento. Após criado, ele ficará escutando na porta definida na entrada até receber um pacote.
 
